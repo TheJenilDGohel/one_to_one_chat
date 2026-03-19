@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "648100029327",
+    "project_id": "onetoonechat-c8f28",
+    "storage_bucket": "onetoonechat-c8f28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648100029327:android:93d2c9fd70a1927a11e1fa",
+        "android_client_info": {
+          "package_name": "com.example.one_to_one_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcDHHsNF0RmFOi8DRCUc1QT8dcQlip4mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
